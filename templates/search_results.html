@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>Search Results</h1>
+
+{% if ai_mode %}
+    <p><strong>AI Mode:</strong> Showing results for last {{ results|length }} searches.</p>
+{% endif %}
+
+<ul>
+    {% for group in results %}
+        <li>
+            <h3>Query: "{{ group.query }}"</h3>
+            <ul>
+                {% for result in group.results %}
+                    <li>
+                        <a href="{{ result.url }}">{{ result.title }}</a>
+                        <p>{{ result.summary }}</p>
+                    </li>
+                {% endfor %}
+            </ul>
+        </li>
+    {% endfor %}
+</ul>
+{% endblock %}
