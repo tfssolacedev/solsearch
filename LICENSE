@@ -1,21 +1,56 @@
-MIT License
+SOLACE LICENSE v1.0
 
-Copyright (c) 2025 Solace
+Copyright (c) 2025 Solace ("Author")
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+All rights reserved.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Permission to access, view, modify, and compile the source code contained herein
+is hereby granted, solely for personal, non-commercial use by individuals and
+organizations, provided that the following conditions are met:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+1. The above copyright notice and this permission notice shall be included in all
+   copies or substantial portions of the Software.
+
+2. Any modified versions of this Software must:
+   a. Retain the original copyright notice
+   b. Clearly indicate that changes were made
+   c. Not remove or alter any trademark, brand name, or logo references within the code
+   d. Not represent the modified version as the original work of the Author
+
+3. You may not:
+   a. Sell, lease, rent, sublicense, or otherwise monetize the Software or any derivative works,
+      in whole or in part, without explicit written permission from the Author.
+   b. Use the Software in any commercial product, service, or offering intended for profit
+      without prior written consent.
+   c. Rebrand, rename, or distribute the Software under any other name, including but not limited to
+      variations, misspellings, or derivatives of "Solace".
+   d. Remove, obscure, or alter any notices of authorship, copyright, trademark, or license
+      within the Software.
+   e. Claim ownership, authorship, or intellectual property rights over any portion of the Software.
+   f. Reverse engineer, decompile, disassemble, or attempt to extract the source code for commercial gain
+      or competitive analysis.
+
+4. Trademark Protection:
+   a. The name "Solace", associated logos, branding, and domain references are exclusive
+      intellectual property of the Author.
+   b. You may not use any of these marks in any form — including but not limited to products,
+      services, websites, or social media — without express written permission.
+
+5. Warranty Disclaimer:
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+   INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+   PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE
+   FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+   ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+6. Legal Enforcement:
+   a. Any violation of the terms of this License constitutes copyright infringement,
+      trademark abuse, and unauthorized use of intellectual property.
+   b. The Author reserves the right to pursue legal remedies, including but not limited to cease-and-desist
+      letters, DMCA takedowns, injunctions, and civil litigation.
+   c. All violations will be prosecuted to the fullest extent of applicable laws in the United Kingdom
+      and international jurisdictions.
+
+INFRINGEMENT OF THESE TERMS WILL BE TREATED AS A CRIMINAL AND CIVIL OFFENSE.
+
+For legal inquiries, permissions, or licensing exceptions, contact: legal@caught.wiki
