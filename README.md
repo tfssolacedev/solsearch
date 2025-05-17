@@ -3,7 +3,7 @@ Self-hosted Search Engine — Created & Maintained by **Solace**
 
 🔗 Website: [hostnet.wiki/solace](https://hostnet.wiki/solace )  
 🐙 GitHub: [@tfssolacedev](https://github.com/tfssolacedev )  
-☕ Sponsor: [buymeacoffe.com/solacedev](https://buymeacoffe.com/solacedev )  
+☕ Sponsor: [buymeacoffe.com/solacedev](https://buymeacoffee.com/solacedev )  
 📧 Legal Inquiries: [legal@caught.wiki](mailto:legal@caught.wiki)
 
 ---
@@ -50,7 +50,7 @@ Each domain I index costs me £10 to register. That’s why I maintain strict co
 Each domain I index costs me £10 to register. If you'd like to help fund the growth and maintenance of Solace:
 
 - 💬 Sponsor me on GitHub: [github.com/sponsors/tfssolacedev](https://github.com/tfssolacedev )
-- ☕ Buy me a coffee: [buymeacoffe.com/solacedev](https://buymeacoffe.com/solacedev )
+- ☕ Buy me a coffee: [buymeacoffe.com/solacedev](https://buymeacoffee.com/solacedev )
 - 📦 Try the upcoming hosted version when available
 
 ---
